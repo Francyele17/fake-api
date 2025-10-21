@@ -1,0 +1,57 @@
+{
+  "usuarios1": [
+    {
+      "id": 1,
+      "nome": "Anny Beatriz",
+      "apelido": "Bia"
+    },
+    {
+      "id": 2,
+      "nome": "Francyele Dias",
+      "apelido": "Fran"
+    },
+    {
+      "id": 3,
+      "nome": "Maria Vitória",
+      "apelido": "Vitória"
+    },
+    {
+      "id": 4,
+      "nome": "João Pedro",
+      "apelido": "Jota"
+    },
+    {
+      "id": 5,
+      "nome": "Wanessa Fernanda",
+      "apelido": "Wanda"
+    }
+  ],
+  {
+  "usuarios2": [
+    {
+      "id": 6,
+      "nome": "Felipe",
+      "apelido": "Fefe"
+    },
+    {
+      "id": 7,
+      "nome": "Maria Luisa",
+      "apelido": "Malu"
+    },
+    {
+      "id": 8,
+      "nome": "Carolina",
+      "apelido": "Carolzinha"
+    },
+    {
+      "id": 9,
+      "nome": "Eduarda",
+      "apelido": "Duda"
+    },
+    {
+      "id": 10,
+      "nome": "Quitéria",
+      "apelido": "Tera"
+    }
+  ]
+}
